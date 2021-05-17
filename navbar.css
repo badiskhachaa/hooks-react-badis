@@ -1,0 +1,13 @@
+.bar{
+ font-size:  large;
+ font-weight: bold;
+ padding:0;
+ 
+}
+Nav.link:hover{
+      color: blue;
+}
+img.d-inline-block.align-top {
+      width: auto;
+  }
+  
